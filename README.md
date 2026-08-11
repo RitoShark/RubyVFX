@@ -1,5 +1,7 @@
 need fox:
 
+shyvanna immortal journey head_front
+
 ahri base recall
 
 jarvan skin 54 recall
