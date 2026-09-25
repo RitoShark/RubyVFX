@@ -9,7 +9,7 @@
 
 Explore a skin. Inspect its effects. Make it your own.
 
-[**Download RubyRe**](https://github.com/RitoShark/Ruby/releases) · [**Explore the features**](#built-for-the-whole-skin) · [**Report an issue**](https://github.com/RitoShark/Ruby/issues)
+[**Download RubyRe**](https://github.com/RitoShark/RubyVFX/releases) · [**Explore the features**](#built-for-the-whole-skin) · [**Report an issue**](https://github.com/RitoShark/RubyVFX/issues)
 
 <br />
 
