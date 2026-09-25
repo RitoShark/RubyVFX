@@ -75,7 +75,7 @@ RubyRe brings the visual and data sides of skin creation together. Preview a cha
 
 ## Get RubyRe
 
-Download a published build from the [releases page](https://github.com/RitoShark/Ruby/releases).
+Download a published build from the [releases page](https://github.com/RitoShark/RubyVFX/releases).
 
 RubyRe is **closed-source software**. Its application source code is not publicly available.
 
@@ -83,7 +83,7 @@ RubyRe uses WebGPU for its viewport. You will need compatible graphics hardware 
 
 ## Feedback & support
 
-Found something that does not look right? [Open an issue](https://github.com/RitoShark/Ruby/issues) with the champion and skin, the animation or particle system, steps to reproduce, and a screenshot or short recording. Include the RubyRe version and your GPU when reporting rendering problems.
+Found something that does not look right? [Open an issue](https://github.com/RitoShark/RubyVFX/issues) with the champion and skin, the animation or particle system, steps to reproduce, and a screenshot or short recording. Include the RubyRe version and your GPU when reporting rendering problems.
 
 Feature requests and workflow suggestions are welcome through issues too. Describe what you want to create and how the feature would help.
 
